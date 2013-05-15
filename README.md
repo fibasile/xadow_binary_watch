@@ -1,4 +1,4 @@
 xadow_binary_watch
 ==================
 
-xadow watch, binarry led display, count steps
+xadow watch, binary led display, count steps
