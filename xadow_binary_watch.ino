@@ -1,5 +1,5 @@
 // demo of xadow, binary watch
-#include <streaming.h>
+#include <Streaming.h>
 
 
 void setup()
